@@ -49,7 +49,7 @@ export const produtos: Produto[] = [
   {
     id: 'lona-polietileno',
     nome: 'Lonas de Polietileno',
-    categoria: 'polietileno',
+    categoria: 'plasticas',
     descricao:
       'Lona de PE com tela laminada, soldas térmicas, bainhas soldadas, ilhoses zincados. Disponível em várias cores.',
     imagem:
